@@ -1,5 +1,7 @@
-require "bundler/setup"
-require "covid_tracker_api"
+# frozen_string_literal: true
+
+require 'bundler/setup'
+require 'covid_tracker_api'
 require 'webmock/rspec'
 
 RSpec.configure do |config|

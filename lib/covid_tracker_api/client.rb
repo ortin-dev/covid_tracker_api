@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'covid_tracker_api/client/queries'
 
 module CovidTrackerApi

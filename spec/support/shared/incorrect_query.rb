@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 RSpec.shared_examples 'CovidTrackerApi Client Query' do
   context 'with incorrect query' do
     let(:response) do
