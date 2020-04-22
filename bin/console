@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "covid_tracker_api"
+
+require "irb"
+IRB.start(__FILE__)
